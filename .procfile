@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app
+web: gunicorn sec_prog.wsgi --log-file -
