@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\sec_prog",
     "\\sharefiles",
     "\\templates"
   ],
-  "SelectedNode": "\\templates\\home1.html",
+  "SelectedNode": "\\sec_prog\\settings.py",
   "PreviewInSolutionExplorer": false
 }
