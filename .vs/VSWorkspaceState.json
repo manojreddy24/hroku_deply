@@ -1,10 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\sec_prog",
-    "\\sharefiles",
-    "\\templates"
+    "\\env",
+    "\\env\\Lib",
+    "\\env\\Lib\\site-packages",
+    "\\env\\Lib\\site-packages\\pip",
+    "\\env\\Lib\\site-packages\\pip\\_internal",
+    "\\env\\Lib\\site-packages\\pip\\_internal\\metadata",
+    "\\env\\Lib\\site-packages\\setuptools",
+    "\\env\\Lib\\site-packages\\setuptools\\_distutils",
+    "\\env\\Lib\\site-packages\\setuptools\\_distutils\\command"
   ],
-  "SelectedNode": "\\sec_prog\\settings.py",
+  "SelectedNode": "\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py",
   "PreviewInSolutionExplorer": false
 }
