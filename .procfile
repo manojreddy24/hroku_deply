@@ -1,1 +1,1 @@
-web: gunicorn sharefiles.wsgi --log-file -
+web: gunicorn sec_prog.wsgi --log-file -

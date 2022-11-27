@@ -29,9 +29,10 @@ EMAIL_PORT = EMAIL_PORT
 SECRET_KEY = 'django-insecure-+br-x0ffx5y%5pbo8@4d%5^_s$74883$j1ku$1g14ntfj)pk!u'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', "sharefilesmanoj.herokuapp.com"]
+#ALLOWED_HOSTS = ['127.0.0.1', "sharefilesmanoj.herokuapp.com"]
+ALLOWED_HOSTS=['*']
 
 
 # Application definition
